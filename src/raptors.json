@@ -1,0 +1,15 @@
+{
+  "id": "1610612761",
+  "abbr": "TOR",
+  "code": "raptors",
+  "city": "Toronto",
+  "name": "Raptors",
+  "conference": "Eastern",
+  "division": "Atlantic",
+  "special": false,
+  "Season": "2017-18",
+  "seasonyear": 2017,
+  "SeasonType": "Regular Season",
+  "color": "#ce1141",
+  "colors": ["#ce1141", "#061922"]
+}

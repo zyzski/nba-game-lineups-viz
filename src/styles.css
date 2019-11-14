@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.rotations-chart_container {
+  border: 4px solid aqua;
+}
+
+.chart .row {
+  transition: all 250ms ease;
+}
+
+/* .chart .row:hover {
+  opacity: 1;
+}
+
+.chart .row:hover ~ .row:not(:hover),
+.chart .row:hover ~ .row:not(:hover)
+ {
+  opacity: .5;
+} */
+
+.x-axis .tick line {
+  stroke: #aaa;
+  stroke-dasharray: 2 2;
+  stroke-opacity: 0.8;
+}
+
+.label text {
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
+.session {
+  transition: all 100ms ease;
+}
+.session:hover {
+  cursor: pointer;
+}

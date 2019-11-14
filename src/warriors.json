@@ -1,0 +1,15 @@
+{
+  "id": "1610612744",
+  "abbr": "GSW",
+  "code": "warriors",
+  "city": "Golden State",
+  "name": "Warriors",
+  "conference": "Western",
+  "division": "Pacific",
+  "special": false,
+  "Season": "2017-18",
+  "seasonyear": 2017,
+  "SeasonType": "Regular Season",
+  "color": "#fdb927",
+  "colors": ["#fdb927", "#006bb6"]
+}
